@@ -1,0 +1,14 @@
+{
+  "domain": "wework_robot",
+  "name": "Dingtalk Robot",
+  "config_flow": false,
+  "documentation": "https://github.com/dscao/wework_robot/",
+  "issue_tracker": "https://bbs.hassbian.com/thread-3920-1-1.html",
+  "requirements": [
+  ],
+  "dependencies": [],
+  "codeowners": [
+    "@dscao"
+  ],
+  "version": "2022.6.29"
+}
