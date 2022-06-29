@@ -6,11 +6,6 @@ https://bbs.hassbian.com/thread-3920-1-1.html \
 文档：
 https://open.wework.com/document/group/custom-robot-access 
 
-
-## 修改
-1、支持加签功能 \
-2、支持消息类型 type
-
 ## 安装
 
 * 将 custom_component 文件夹中的内容拷贝至自己的相应目录
