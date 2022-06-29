@@ -1,10 +1,10 @@
 # Wework_Robot
 HomeAssistant 企业微信群机器人消息推送
 
-修改自： \
-https://bbs.hassbian.com/thread-3920-1-1.html \
-文档：
+企业微信群机器人配置说明： \
 https://open.wework.com/document/group/custom-robot-access 
+
+
 
 ## 安装
 
@@ -70,10 +70,26 @@ data:
 
 service: notify.wework_robot
 data:
-  message: 发送文件，标题和消息都不显示
+  message: 发送图片文件，标题和消息都不显示
   data:
     type: file
-    imagepath: /config/www/1.jpg
+    filepath: /config/www/1.jpg
+
+
+service: notify.wework_robot
+data:
+  message: 发送mp3文件，标题和消息都不显示
+  data:
+    type: file
+    filepath: /config/www/1.mp3
+
+
+service: notify.wework_robot
+data:
+  message: 发送mp4文件，标题和消息都不显示
+  data:
+    type: file
+    filepath: /config/www/1.mp4
 
 
 ```
