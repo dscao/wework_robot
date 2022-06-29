@@ -74,7 +74,7 @@ data:
   data:
     type: file
     imagepath: /config/www/1.jpg
-	
+
 
 ```
 
