@@ -1,8 +1,11 @@
 # Wework_Robot
 HomeAssistant 企业微信群机器人消息推送
 
+如何设置群机器人 \
+https://open.work.weixin.qq.com/help2/pc/14931?person_id=1 \
 企业微信群机器人配置说明： \
-https://open.wework.com/document/group/custom-robot-access 
+https://developer.work.weixin.qq.com/document/path/91770
+
 
 
 
